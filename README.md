@@ -21,11 +21,10 @@
 <br>
 
 
-<h3>小程式-GUI</h3>
+<h3>小程式-訂房好幫手</h3>
 <ul>
-  <li>台北市各行政區4種案件發生次數</li>
   <ol>
-  <img src="https://imgur.com/IikL8By.jpg" width="600" height="400" /><br/>
+  <img src="https://imgur.com/DxHeyRV.png" /><br/>
    根據此圖可以發現<br>
    <ul>
       <li>自行車竊盜案件發生之首在"大安區"<br></li>
