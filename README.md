@@ -71,7 +71,7 @@
       <li>將區域擴大至變六都或全台灣<br></li>
       <li>入住日期範圍增加<br></li>
       <li>房型選擇多樣化<br></li>
-      <li>增加資料來源，例如:Hotel.com之類的訂房網<br></li>
+      <li>增加資料來源，例如 : Hotel.com之類的訂房網<br></li>
       <li>增加Google Map資訊<br></li>
       <li>將資料存放至Database<br></li>
    </ul>
